@@ -13,7 +13,7 @@
 
 ![Screenshot (68)](https://user-images.githubusercontent.com/73010098/160219394-18e5a076-5788-457f-be0e-7ceb09032cbe.png)
 
-<b> Membuat Ordered List <b/>
+<b> Membuat Ordered List </b>
   
 Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
 
