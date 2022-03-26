@@ -14,6 +14,7 @@
 ![Screenshot (71)](https://user-images.githubusercontent.com/73010098/160219212-42d73986-d79f-43bc-95e2-2a2d0890ee95.png)
 
 <b> Membuat Ordered List <b/>
+  
 Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
 
 
