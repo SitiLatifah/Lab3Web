@@ -52,3 +52,18 @@ Kemudian Menambahkan Kode untuk Membuat Form sederhana
 <b>Menambahkan Style Pada Form Agar lebih menarik ditambahkan CSS</b>
 
 ![Screenshot (81)](https://user-images.githubusercontent.com/73010098/160219994-2df50531-46cc-4ccf-884d-087ba00b9ea8.png)
+
+
+# Pertanyaan dan Tugas
+<b>Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.</b><br>
+
+Menampilkan Dropdown Menu
+
+![Screenshot (85)](https://user-images.githubusercontent.com/73010098/160221506-0de66734-8cf3-4d46-a834-1241ded6813a.png)
+
+Listbox dengan multiple selection
+
+![Screenshot (86)](https://user-images.githubusercontent.com/73010098/160221535-b6eced03-e507-42d2-b7f4-7bb4c5e8af28.png)
+
+
+
