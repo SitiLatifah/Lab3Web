@@ -33,6 +33,22 @@ Kemudian menambahkan kode untuk membuat table Sederhana
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/73010098/160219756-95d5a686-386a-455a-8749-6ecd78285a33.png)
 
+<b>Menggabungkan Sel Data</b><br>
+Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
+menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
+horizontal).
 
+![Screenshot (77)](https://user-images.githubusercontent.com/73010098/160219818-273f0e63-bbdc-489e-a649-6b3ab4b3c546.png)
 
+# Membuat Form<br>
+Buat file baru dengan nama lab3_form.html seperti berikut.
 
+![Screenshot (78)](https://user-images.githubusercontent.com/73010098/160219900-50879001-19cf-4953-966e-024528e83654.png)
+
+Kemudian Menambahkan Kode untuk Membuat Form sederhana
+
+![Screenshot (79)](https://user-images.githubusercontent.com/73010098/160219927-c056fded-2876-462f-bfcc-4bc854ce2393.png)
+
+<b>Menambahkan Style Pada Form Agar lebih menarik ditambahkan CSS</b>
+
+![Screenshot (81)](https://user-images.githubusercontent.com/73010098/160219994-2df50531-46cc-4ccf-884d-087ba00b9ea8.png)
