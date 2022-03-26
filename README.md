@@ -24,8 +24,14 @@ section unordered-list kemudian section Description List, seperti berikut.
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/73010098/160219616-f7af31c9-7004-4239-8bbc-a7af944b8b6b.png)
 
+<b>Membuat Tabel</b><br>
+Buat file baru dengan nama lab3_tabel.html seperti berikut.
 
+![Screenshot (71)](https://user-images.githubusercontent.com/73010098/160219716-ffdd02b4-73fc-4cd0-9912-acc5b574b6bd.png)
 
+Kemudian menambahkan kode untuk membuat table Sederhana
+
+![Screenshot (72)](https://user-images.githubusercontent.com/73010098/160219756-95d5a686-386a-455a-8749-6ecd78285a33.png)
 
 
 
